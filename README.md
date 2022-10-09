@@ -20,7 +20,9 @@ The one place where people can read about the amazing world of blockchain and co
 ## How to make a Pull Request?
 
 **1.** Start by making a fork the [**Blockchain World**](https://github.com/gdsc-bit/Blockchain-World.git) repository. 
+
 **2.** Clone your new fork of the repository:
+
 **3.** Navigate to the new project directory:
 
 ```bash
