@@ -8,7 +8,7 @@
 
 ##  About Blockchain World
 
-The one place where people can read about the amazing world of blockchain and contribute the learning resources and also contribute the projects you have build on blockchain.
+The one place where people can read about the amazing world of blockchain and contribute to the learning resources and also to the projects that you have build on blockchain.
   
 ## How to Contribute?
 
@@ -26,7 +26,7 @@ The one place where people can read about the amazing world of blockchain and co
 **3.** Navigate to the new project directory:
 
 ```bash
-cd Blockchain-Workd
+cd Blockchain-World
 ```
 
 **4.** Set upstream command:
